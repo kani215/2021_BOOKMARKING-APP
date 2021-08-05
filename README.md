@@ -29,10 +29,10 @@ DELETE : 북마크를 제거한다.
 
 - src
 
-    [commands.py](http://commands.py) # db 언어를 조작 명령
+    [commands.py](https://github.com/kani215/2021_BOOKMARKING-APP/blob/main/src/commands.py) # db 언어를 조작 명령
 
-    [database.py](http://database.py) #sql 언어들로 db를 조작하는 파일
+    [database.py](https://github.com/kani215/2021_BOOKMARKING-APP/blob/main/src/database.py) #sql 언어들로 db를 조작하는 파일
 
-    [main.py](http://main.py) #전체 파일을 실행
+    [main.py](https://github.com/kani215/2021_BOOKMARKING-APP/blob/main/src/main.py) #전체 파일을 실행
 
 bookmarks.db # sqlite db 파일에 저장
