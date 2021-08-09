@@ -1,0 +1,4 @@
+requirements
+
+sqlite3
+pip ver == most recent ver
